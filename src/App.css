@@ -43,3 +43,10 @@
   background-color: burlywood;
   cursor: pointer;
 }
+
+.second-label {
+  width: 10em;
+  height: 4vh;
+  cursor: pointer;
+  background-color: darkcyan;
+}
